@@ -1,0 +1,27 @@
+#root {
+  text-align: center;
+}
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.read-the-docs {
+  color: #888;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+}
+
+.list {
+  border: 1px solid red;
+  padding: 4rem;
+}
+
+.loader {
+  height: 50px; /* Ensure a visible height */
+  margin: 10px auto;
+  border: 3px solid blue;
+}
